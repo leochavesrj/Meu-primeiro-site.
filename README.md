@@ -1,2 +1,2 @@
 # Meu primeiro site
-Esse é meu primeiro site feito com ajuda do professor, é um site bastatnte básico feito apenas com HTML e CSS.
+Esse é meu primeiro site, um site bastatnte básico feito apenas com HTML, CSS e framework Bootstrap.
