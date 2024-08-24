@@ -45,6 +45,8 @@ textarea {
  .header h3 {
     color: #fff;
     margin-top: 0;
+    text-align: center;
+    padding: 40px;
  }
 
  .form-container {
